@@ -47,7 +47,7 @@ export function Navigation() {
               K
             </div>
             <span className="font-display font-bold text-xl tracking-tight text-foreground">
-              Korea<span className="text-primary">Life</span>
+              Kore<span className="text-primary">ly</span>
             </span>
           </Link>
 

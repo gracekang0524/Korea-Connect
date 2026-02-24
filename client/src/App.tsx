@@ -28,7 +28,7 @@ function Router() {
       </main>
       <footer className="py-12 bg-secondary border-t border-border mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-muted-foreground text-sm">
-          <p>&copy; {new Date().getFullYear()} KoreaLife. Built for the community.</p>
+          <p>&copy; {new Date().getFullYear()} Korely. Built for the community.</p>
         </div>
       </footer>
     </div>
